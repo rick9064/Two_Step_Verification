@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999112622044",
+    "project_id": "two-step-verification-54531",
+    "storage_bucket": "two-step-verification-54531.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999112622044:android:ee013918bcce5d69b01919",
+        "android_client_info": {
+          "package_name": "com.example.twostepverification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXQtyyKdFYeVJTm9ESJzkfEXyd1y8H9S0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
